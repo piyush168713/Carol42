@@ -106,7 +106,7 @@
     <img alt="commits this month" src="https://badges.pufler.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE">
 </div>
 <div alig="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">   -->
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
 </div>
@@ -125,26 +125,26 @@
 </details>
 <details>
 <summary>Top language</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">    -->
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*" alt="most used languages" />
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 <details>
 <summary>Streak stats</summary>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<!--    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">  -->
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 </details>
 <details>
 <summary>Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">   -->
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
 <details>
 <summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">  -->
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
 </a>
 </details>
